@@ -1,0 +1,24 @@
+.messages{
+	height: 500px;
+	border: 10px solid black;
+}
+
+.Main-Header{
+	text-align: center !important;
+}
+
+.messageBox{
+	border-bottom: 1px solid black;
+}
+
+.userNotCurrent{
+	text-align: left !important;
+	font-size: 18px;
+	color: green;
+}
+
+.userCurrent{
+	text-align: right !important;
+	font-size: 18px;
+	color: blue;
+}
